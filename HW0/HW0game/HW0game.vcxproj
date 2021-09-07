@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{abdf847b-053c-4e77-ab96-56e947bb0f4e}</ProjectGuid>
-    <RootNamespace>HW0hello</RootNamespace>
+    <ProjectGuid>{abd931be-2558-4369-8015-3c52b4479785}</ProjectGuid>
+    <RootNamespace>HW0game</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -139,7 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="HW0hello.cpp" />
+    <ClCompile Include="HW0game.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
