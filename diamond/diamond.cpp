@@ -2,7 +2,7 @@
 // Lisa Jacklin
 // CS 201
 // 9/6/2021
-//
+// required: creates a diamond with rows 2x the number that is inputted by user
 
 #include <iostream>
 
