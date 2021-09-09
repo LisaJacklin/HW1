@@ -10,7 +10,7 @@
 #include <iostream>
 
 int miles;
-int km;
+float km;
 
 int main()
 {
