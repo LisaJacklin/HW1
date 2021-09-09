@@ -2,9 +2,7 @@
 //Lisa Jacklin
 // CS 201
 // 9/8/2021
-// 
-// 
-// 
+
 // keep in mind that 1 mile is 1.609 km
 
 #include <iostream>
@@ -14,7 +12,7 @@ float km;
 
 int main()
 {
-    std::cout << "Please insert how many miles to be converted: \n";
+    std::cout << "Please insert how many miles to be converted: ";
     std::cin >> miles;
 
     km = miles * 1.609;
