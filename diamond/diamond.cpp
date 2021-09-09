@@ -6,7 +6,14 @@
 
 #include <iostream>
 
+int number;
+
 int main()
 {
-    std::cout << "Hello World!\n";
+	std::cout << "Please enter a possitive integer";
+		std::cin >> number;
+	
+	std::cout << "the number given was";
+
+
 }
