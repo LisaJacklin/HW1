@@ -21,13 +21,11 @@ int main()
         std::cout << number;
         std::cout << "\n";
 
-       
     }
-    if (number = 0)
-    {
+  
+    while (number = 0) {
         std::cout << "The largest integer entered is: ";
         std::cout << number;
-
     }
 
 
